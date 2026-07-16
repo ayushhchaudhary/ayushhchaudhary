@@ -1,4 +1,4 @@
-## Hi there 👋
+Nevermind, i will do this later.
 
 <!--
 **ayushhchaudhary/ayushhchaudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
